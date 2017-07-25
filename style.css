@@ -1,8 +1,21 @@
 body {
   line-height: normal;
   font-family: 'dotum', arial;
+  background-color: #fffcc9;
 }
 
 h1 {
   letter-spacing: 5px;
+}
+
+#main {
+  margin-top: 200px;
+}
+
+#selection {
+  margin-top: 150px;
+}
+
+#dog {
+  margin-top: 80px;
 }
